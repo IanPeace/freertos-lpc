@@ -1,0 +1,5 @@
+!.gitignore
+
+applications/lpc15xx/keil/nxp_lpcxpresso_1549/freertos/Listings/*
+applications/lpc15xx/keil/nxp_lpcxpresso_1549/freertos/Objects/*
+applications/lpc15xx/keil/nxp_lpcxpresso_1549/freertos/*.uvguix.*
